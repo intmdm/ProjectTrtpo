@@ -4,7 +4,7 @@
 
 # Содержание
 1 [Документация](Project/Documents)  
-1.1 [Требования](Project/Documents/Requirements)  
+1.1 [Требования](Project/Documents/Requirements.md)  
 1.2 [Диаграммы](Documents/System%20project/README.md)  
 2 [Код](Project/Code)  
 3 [Информация о тестировании](Testing)  
