@@ -1,5 +1,5 @@
 # TRTPO-Project
-# Time Tracker
+# Time Tracker для MAC OS
 Язык реализации: Java 
 
 # Содержание
