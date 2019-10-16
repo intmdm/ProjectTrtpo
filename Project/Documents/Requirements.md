@@ -81,8 +81,8 @@
 Окно добавления новой задачи.  
 ![Add new task](../../Images/Add%20new%20task.png)  
 Окно где начался отсчет задачи.  
-![Start task](../../Images/Start%20new%20task.png)  
-ООкно где начался отсчет второй задачи. 
+![Start task](../../Images/Start%20task.png)  
+Окно где начался отсчет второй задачи. 
 ![Start other task](../../Images/Start%20other%20task.png)  
 Окно с отоброжением всей информации при помоши круговой диаграммы. 
 ![Diagram](../../Images/Diagram.png)  
