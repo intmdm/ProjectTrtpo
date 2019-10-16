@@ -1,3 +1,4 @@
+
 # Требования к проекту
 ---
 
@@ -77,15 +78,15 @@
 
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение. Без введенных задач.   
-![Clean window](../../Images/Clean%20window.png)  
+![Clean window](../Images/Clean%20window.png)  
 Окно добавления новой задачи.  
-![Add new task](../../Images/Add%20new%20task.png)  
+![Add new task](../Images/Add%20new%20task.png)  
 Окно где начался отсчет задачи.  
-![Start task](../../Images/Start%20task.png)  
+![Start task](../Images/Start%20task.png)  
 Окно где начался отсчет второй задачи. 
-![Start other task](../../Images/Start%20other%20task.png)  
+![Start other task](../Images/Start%20other%20task.png)  
 Окно с отоброжением всей информации при помоши круговой диаграммы. 
-![Diagram](../../Images/Diagram.png)  
+![Diagram](../Images/Diagram.png)  
 
 <a name="user_specifications"/>
 
