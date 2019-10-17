@@ -17,7 +17,6 @@
 2.3.2 [Аудитория приложения](#application_audience)  
 2.3.2.1 [Целевая аудитория](#target_audience)  
 2.3.2.1 [Побочная аудитория](#collateral_audience)  
-2.4 [Предположения и зависимости](#assumptions_and_dependencies)  
 3 [Системные требования](#system_requirements)  
 3.1 [Функциональные требования](#functional_requirements)  
 3.1.1 [Основные функции](#main_functions)  
@@ -109,11 +108,6 @@
 
 #### 2.3.2.2 Побочная аудитория
 Пользователи любой котегории. В основном студенты.
-
-<a name="assumptions_and_dependencies"/>
-
-## 2.4 Предположения и зависимости
-1. Приложение будет работает при отсутствии подключения к Интернету;
 
 <a name="system_requirements"/>
 
