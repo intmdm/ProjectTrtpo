@@ -9,7 +9,7 @@
 1.2.1 [Исходные данные](#initial_data)  
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.2.3 [Границы проекта](#project_boundary)  
-1.3 [Аналоги](./Overview%20of%20analogues.md)  
+1.3 [Аналоги](#analogues)  
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
@@ -63,7 +63,7 @@
 <a name="analogues"/>
 
 ## 1.3 Аналоги
-Обзор аналогов представлен в документе [**Overview of analogues**](Overview%20of%20analogues)
+Обзор аналогов представлен в документе [**Overview of analogues**](Overview%20of%20analogues.md)
 
 <a name="user_requirements"/>
 
