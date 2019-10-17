@@ -15,45 +15,44 @@
 <a name="hours"/>
 
 ## 1.1 Hours
-**Yearly subscription for** $79.99 annually
+**Годовая подписка** $79.99 
 
-Website https://www.hourstimetracking.com
+Вебсайт https://www.hourstimetracking.com
 
-With a visual timeline, smart reminders, reporting, and an easy to use interface crafted by an Apple Design Award winning team, Hours lets you:
+Благодаря визуальной шкале времени, умным напоминаниям, отчетам и простому в использовании интерфейсу, Hours позволяет вам:
 
-- Choose between the Professional, Team and Personal version based on the features you need
-- Easily create simple timers that track named tasks real time
-- Start/stop/switch timers with one tap
-- Edit the visual timeline to quickly identify and correct mistakes
-- Sync your time across multiple devices including Apple Watch and Hours Web
-- Use Siri to start and stop timers
+- Выберите между Профессиональной, Командной и Персональной версией в зависимости от необходимых вам функций.
+- Легко создавайте простые таймеры, которые отслеживают названные задачи в режиме реального времени
+- Запуск / остановка / переключение таймеров одним нажатием
+- Редактируйте визуальную временную шкалу для быстрого выявления и исправления ошибок.
+- Синхронизируйте время на нескольких устройствах, включая Apple Watch и Hours Web.
+- Используйте Siri для запуска и остановки таймеров
 
 <a name="atracker"/>
 
 ## 1.2 ATracker
-**Price:** $4.99$ for Iphone App
+**Цена:** $4.99$ для приложения под Iphone
 
-Website http://www.wonderapps.se/ATracker/home.html 
+Веббсайт http://www.wonderapps.se/ATracker/home.html 
 
-ATracker is a time tracking application which is very easy to use and requires minimal setup.
-On the main screen, you see the complete user defined task list and the overview of today’s time spending. You can start/stop time recording simply by tapping a task.
-It only needs a name and/or icon to setup a unique task, with advanced settings as optional. So you can focus on own work instead of wasting time on mastering the app.
+ATracker - это приложение для отслеживания времени, которое очень просто в использовании и требует минимальной настройки.
+На главном экране вы видите полный список задач, определенных пользователем, и обзор текущих затрат времени. Вы можете начать / остановить запись времени, просто нажав на задачу.
+Для настройки уникальной задачи требуется только имя и / или значок, а дополнительные параметры являются необязательными. Таким образом, вы можете сосредоточиться на собственной работе, а не тратить время на освоение приложения.
 
-ATracker creates beautiful reports in pie chart and bar chart which you can share via Facebook, Twitter and email. You can also export data in CSV format.
-ATracker renders the daily time spending in both list and calendar view. You can tap the task entry to modify it or to convert iCal entry to ATracker entry. You can also compare the iCal planned activity with actual time usage.
+ATracker создает прекрасные отчеты в виде круговой диаграммы и гистограммы, которыми вы можете поделиться через Facebook, Twitter и электронную почту. Вы также можете экспортировать данные в формате CSV.
+ATracker отображает ежедневные затраты времени в виде списка и календаря. Вы можете нажать на запись задачи, чтобы изменить ее или преобразовать запись iCal в запись ATracker. Вы также можете сравнить запланированные действия iCal с фактическим использованием времени.
 
 <a name="hubstaff"/>
 
 ## 1.3 Hubstaff
-**Month subscription for** 5-10$
+**Ежемесячная подписка** 5-10$
 
-Website https://hubstaff.com/mac-time-tracker
+Веббсайт https://hubstaff.com/mac-time-tracker
 
-Stay focused with our Mac time clock app
-Manage your freelancers and remote workers, projects, and time better with Hubstaff’s activity levels, based on keyboard and mouse usage, and optional random screenshots.
+Управляйте своими фрилансерами и удаленными работниками, проектами и временем с помощью уровней активности Hubstaff, основанных на использовании клавиатуры и мыши, и дополнительных случайных снимков экрана.
 
-All-in-one desktop timer app
-Your team can select the exact project and task they're working on to track time from Hubstaff's macOS desktop application. All of the hours and details are available in real-time for managers in the Hubstaff dashboard.
+Универсальное настольное приложение
+Ваша команда может выбрать точный проект и задачу, над которой они работают, чтобы отслеживать время, из настольного приложения MacOS от Hubstaff. Все часы и детали доступны в режиме реального времени для менеджеров на панели управления Hubstaff.
 
 <a name="comparison_of_applications"/>
 
