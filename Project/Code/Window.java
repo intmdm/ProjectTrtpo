@@ -206,20 +206,4 @@ public class Window extends GridPane {
             root.getChildren().add(text);
         }
     }
-
-//    public void Update() {
-//
-//        gridpane.getChildren().removeAll();
-//
-//        //addStopWatch(gridpane, "+", 0,0);
-//        //addTextField(1,0, 1, 1);
-//
-//        int temp = count + 1;
-//
-//        while (temp < count) {
-//            addButton(gridpane, textField.getText(), temp + 1,temp + count);
-//            temp += 1;
-//        }
-//
-//    }
 }
