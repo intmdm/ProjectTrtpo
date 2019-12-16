@@ -14,8 +14,12 @@ public class Main extends Application {
         Window window = new Window();
 
         window.addAddBatton("Add task", 0, 0);
+        window.addAddBatton("Add task", 0, 0);
+
         window.addParagraph(5);
         window.addTextField("Введите название задачи", 280,0);
+        //Data data = new Data();
+        //data.write();
     }
 
 
