@@ -22,9 +22,16 @@ public class Data {
         }
     }
 
-    void write() {
+    void write(String name, int hours, int min, int sec) {
         try {
-            out.print(this);
+            out.print(name);
+            out.print(" ");
+            out.print(hours);
+            out.print(" ");
+            out.print(min);
+            out.print(" ");
+            out.print(sec);
+            out.close();
         } finally {
             out.close();
         }
